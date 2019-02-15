@@ -6,4 +6,4 @@ def find_maxima(arr):
 			if arr[i] > arr[index]
 				index = i 
 		print index
-	return [2]
+	return index
